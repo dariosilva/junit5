@@ -1,4 +1,4 @@
-package com.dams;
+package com.dams.chap3;
 
 import java.util.ArrayList;
 import java.util.List;

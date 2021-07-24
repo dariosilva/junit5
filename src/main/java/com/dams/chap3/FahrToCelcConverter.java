@@ -1,8 +1,8 @@
-package com.dams;
+package com.dams.chap3;
 
 public class FahrToCelcConverter {
     public static int toFahrenheit(int celsius) {
-        return (9.0 / 5.0) * celsius + 32;
+        return ((9 * celsius) / 5)  + 32;
     }
 
     public static int toCelcius(int fahren) {

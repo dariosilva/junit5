@@ -1,4 +1,4 @@
-package com.dams;
+package com.dams.chap3;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

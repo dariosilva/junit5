@@ -1,4 +1,4 @@
-package com.dams;
+package com.dams.chap3;
 
 public class Money {
     private int fAmount;

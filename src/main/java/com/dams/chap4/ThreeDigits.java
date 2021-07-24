@@ -1,4 +1,4 @@
-package com.dams;
+package com.dams.chap4;
 
 public class ThreeDigits {
 
